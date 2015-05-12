@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apple_Stocks_BruteForce", "Apple_Stocks\Apple_Stocks_BruteForce.csproj", "{F4916F55-F33E-4AB7-8FFF-5CC217CB9E1A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apple_Stocks", "Apple_Stocks\Apple_Stocks.csproj", "{F4916F55-F33E-4AB7-8FFF-5CC217CB9E1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
