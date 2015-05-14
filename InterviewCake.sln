@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apple_Stocks", "Apple_Stocks\Apple_Stocks.csproj", "{F4916F55-F33E-4AB7-8FFF-5CC217CB9E1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Products_Of_All_Ints_Except_At_Index", "Products_Of_All_Ints_Except_At_Index\Products_Of_All_Ints_Except_At_Index.csproj", "{FAB35F11-D7F8-4FC7-AA51-D340FECD92E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighestProductOfThree", "HighestProductOfThree\HighestProductOfThree.csproj", "{3A0BFB83-44C1-4D2A-99DB-675A76CFEA74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{F4916F55-F33E-4AB7-8FFF-5CC217CB9E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4916F55-F33E-4AB7-8FFF-5CC217CB9E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4916F55-F33E-4AB7-8FFF-5CC217CB9E1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAB35F11-D7F8-4FC7-AA51-D340FECD92E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB35F11-D7F8-4FC7-AA51-D340FECD92E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB35F11-D7F8-4FC7-AA51-D340FECD92E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB35F11-D7F8-4FC7-AA51-D340FECD92E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A0BFB83-44C1-4D2A-99DB-675A76CFEA74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0BFB83-44C1-4D2A-99DB-675A76CFEA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0BFB83-44C1-4D2A-99DB-675A76CFEA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0BFB83-44C1-4D2A-99DB-675A76CFEA74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
